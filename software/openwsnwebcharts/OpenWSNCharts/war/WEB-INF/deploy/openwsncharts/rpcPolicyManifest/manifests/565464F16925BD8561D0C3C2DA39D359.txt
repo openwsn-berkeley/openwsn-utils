@@ -1,0 +1,2 @@
+serviceClass: edu.berkeley.eecs.openwsn.client.GreetingService
+path: F465411B9672E78FCAF6E5C219A7CF7C.gwt.rpc

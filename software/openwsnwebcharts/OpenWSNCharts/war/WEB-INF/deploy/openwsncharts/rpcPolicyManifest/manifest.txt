@@ -1,0 +1,3 @@
+# Module openwsncharts
+# RPC service class, partial path of RPC policy file
+edu.berkeley.eecs.openwsn.client.GreetingService, F465411B9672E78FCAF6E5C219A7CF7C.gwt.rpc
